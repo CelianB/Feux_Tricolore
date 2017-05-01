@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Timers;
 
 namespace Feux
 {
-    //Application Console simulant un carrefours à N voies.
+    //Application console simulant un carrefour à N voies.
     class Feuxtricolore
     {
         public static int periode;
